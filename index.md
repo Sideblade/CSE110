@@ -16,5 +16,6 @@
 
 ## todo
 - [x] eat
+- [ ] work
 - [ ] sleep  
 ![sad](https://www.cambridge.org/elt/blog/wp-content/uploads/2019/07/Sad-Face-Emoji-480x480.png.webp)
